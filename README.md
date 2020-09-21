@@ -30,3 +30,10 @@ Note: if Disk (D) is chosen, the parameters: DiskRadius and DiskBins need to be 
 
 - Profile, CNFW, DeltaVir, GasCoeff, Radius, GasFraction, GasType, RadiationOn, PhotonsOn, and LogBins are inactive in this version
 
+Output:
+- NumData.txt: lists the number of each object at each time step
+- LumData.txt: lists the luminosity and ionising luminosity at each time step
+- MassData.txt: lists the mass of each object at each time step
+- HMXB.txt: lists each high-mass X-ray binary that has formed and its properties.
+- BH.txt: lists each black hole that has formed and its properties.
+- NS.txt: lists each neutron star that has formed and its properties.
