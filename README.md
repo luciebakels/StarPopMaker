@@ -7,7 +7,7 @@ Compiling the code:
 
 Running the code:
 - Example parameter file in "examples" directory.
-- mpirun -n <Number of cores to run on> mpipop example.param
+- mpirun -n "Number_of_cores_to_run_on" mpipop.exe example.param
 - It runs embarrassingly parallel, writing out as many files as there are cores and combining those at the end of the run.
 
 Input:
